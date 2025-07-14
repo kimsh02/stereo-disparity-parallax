@@ -69,4 +69,4 @@ z \approx \frac{2.5806 \times 10^{13}}{5.879 \times 10^{12}} \approx 4.39 \text{
 ---
 
 ## View PDF Result
-[Open hw13.pdf](./hw13.pdf)
+[Open report](./hw13.pdf).
